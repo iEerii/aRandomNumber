@@ -1,5 +1,7 @@
 import random
 
+print("ADIVINA EL NUMERO QUE ESTOY PENSANDO")
+
 numeroAleatorio = random.randint(1, 10)
 
 while True:
